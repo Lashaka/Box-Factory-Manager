@@ -1,0 +1,22 @@
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\bin\Debug\Class Library Logic.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\bin\Debug\Class Library Logic.pdb
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.csproj.AssemblyReference.cache
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.csproj.CoreCompileInputs.cache
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.pdb
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.csproj.CopyComplete
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\bin\Debug\Class Library UI.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library Logic\bin\Debug\Class Library UI.pdb
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\bin\Debug\Class Library Logic.dll
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\bin\Debug\Class Library Logic.pdb
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\bin\Debug\Class Library UI.dll
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\bin\Debug\Class Library UI.pdb
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.csproj.AssemblyReference.cache
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.csproj.CoreCompileInputs.cache
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.csproj.CopyComplete
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.dll
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library Logic\obj\Debug\Class Library Logic.pdb

@@ -1,0 +1,22 @@
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\bin\Debug\Class Library - DBmanager.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\bin\Debug\Class Library - DBmanager.pdb
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\bin\Debug\Class Library Logic.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\bin\Debug\Class Library Logic.pdb
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.csproj.AssemblyReference.cache
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.csproj.CoreCompileInputs.cache
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.csproj.CopyComplete
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.pdb
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\bin\Debug\Class Library - DBmanager.dll
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\bin\Debug\Class Library - DBmanager.pdb
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\bin\Debug\Class Library Logic.dll
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\bin\Debug\Class Library Logic.pdb
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.csproj.AssemblyReference.cache
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.csproj.CoreCompileInputs.cache
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.csproj.CopyComplete
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.dll
+C:\Users\Victor\OneDrive\Desktop\Box Factory Final Build\Box Factory Manager\Class Library - DBmanager\obj\Debug\Class Library - DBmanager.pdb
