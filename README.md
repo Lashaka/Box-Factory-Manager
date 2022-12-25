@@ -14,3 +14,4 @@ I do not own any art in this project.
 ## Requirements
 Updated Visual Studio
 
+![alt text](https://github.com/lashaka/Box-Factory-Manager/blob/main/BoxFactoryExample.png)
