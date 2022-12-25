@@ -1,0 +1,54 @@
+﻿<Window x:Class="Box_Factory_Manager.BuyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Box_Factory_Manager"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280" KeyDown="Window_KeyDown">
+    <Grid x:Name="MainGrid" Height="720" Width="1280">
+
+        <Grid.Background>
+            <ImageBrush ImageSource="/2.jpg"/>
+        </Grid.Background>
+        <Grid   x:Name="TextGrid" Height="100" Width="1240" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0">
+            <TextBox x:Name="TextBox_x1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="200" FontSize="30" Height="40" RenderTransformOrigin="0.5,0.551" TextChanged="TextBox_x1_TextChanged"/>
+            <TextBox x:Name="TextBox_NumOfBoxes" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="200" FontSize="30" Height="40" TextChanged="TextBox_NumOfBoxes_TextChanged" Margin="750,0,0,0"/>
+            <TextBox x:Name="TextBox_y" HorizontalAlignment="Left" Margin="500,0,250,0" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="200" FontSize="30" Height="40" TextChanged="TextBox_y_TextChanged"/>
+            <TextBox x:Name="TextBox_x2" HorizontalAlignment="Left" Margin="250,0,0,0" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="200" FontSize="30" Height="40" TextChanged="TextBox_x2_TextChanged"/>
+            <Button x:Name="Buy_Button" Content="Buy Box/es" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="40" Width="200" FontSize="30" Click="Buy_Button_Click" Margin="1000,0,0,0"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Gift Width 1" VerticalAlignment="Center" Width="200" Height="28" FontSize="20" Margin="4,0,0,0"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Gift Width 2" VerticalAlignment="Center" Width="200" Height="28" FontSize="20" Margin="254,0,0,0"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Gift Height" VerticalAlignment="Center" Width="200" Height="28" FontSize="20" Margin="504,0,0,0"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Amount Of Gifts" VerticalAlignment="Center" Width="200" Height="28" FontSize="20" Margin="754,0,0,0"/>
+
+
+        </Grid>
+        <DataGrid x:Name="BoxesDataGrid"  IsReadOnly="True"  Margin="0,200,0,100" VerticalAlignment="Bottom" Height="520" HorizontalAlignment="Center" Width="1280" VerticalScrollBarVisibility="Visible" Opacity="0.8" FontSize="30"/>
+        <TextBlock x:Name="TextWriteEffect_TextBlock" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,30,0,0" FontSize="30"/>
+
+        <Button x:Name="Exit_Button" Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Center" Width="200" Height="199" BorderBrush="{x:Null}" FontSize="24" Margin="100,50,0,0" FontWeight="Bold" Click="Exit_Button_Click" Opacity="0" IsEnabled="False">
+            <Button.Background>
+                <ImageBrush ImageSource="/openBox.jpg">
+
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Buy_Buttonpage" Content="Buy" HorizontalAlignment="Right" VerticalAlignment="Center" Width="200" Height="200" BorderBrush="{x:Null}" FontSize="22" Margin="6,50,100,0" FontWeight="Bold" Click="Buy_Buttonpage_Click" Opacity="0" IsEnabled="False">
+            <Button.Background>
+                <ImageBrush ImageSource="/veryClosedBox.jpg">
+
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Manage_Button" Content="Manage" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Height="200" BorderBrush="{x:Null}" FontSize="18" Margin="0,50,0,0" FontWeight="Bold" Click="Manage_Button_Click" Opacity="0" IsEnabled="False">
+            <Button.Background>
+                <ImageBrush ImageSource="/closedBox.jpg">
+
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Yes_Button" Content="Yes" HorizontalAlignment="Left" VerticalAlignment="Center" Width="200" Height="100" Margin="200,0,0,0" FontSize="50" Background="#FF48BD09" BorderBrush="Black" IsEnabled="False" Opacity="0" Click="Yes_Button_Click"/>
+        <Button x:Name="No_Button" Content="No" HorizontalAlignment="Right" VerticalAlignment="Center" Width="200" Height="100" Margin="176,0,200,0" FontSize="50" Background="#FFD64739" BorderBrush="Black" Opacity="0" IsEnabled="False" Click="No_Button_Click"/>
+    </Grid>
+</Window>

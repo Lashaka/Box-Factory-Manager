@@ -1,0 +1,58 @@
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Box Factory Manager.exe.config
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Box Factory Manager.exe
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Box Factory Manager.pdb
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Class Library Logic.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Class Library UI.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Class Library Logic.pdb
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Class Library UI.pdb
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.AssemblyReference.cache
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\MainWindow.g.cs
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\App.g.cs
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager_MarkupCompile.cache
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager_MarkupCompile.lref
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\MainWindow.baml
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager.g.resources
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box_Factory_Manager.Properties.Resources.resources
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.GenerateResource.cache
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.CoreCompileInputs.cache
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.CopyComplete
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager.exe
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\Box Factory Manager.pdb
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Class Library - DBmanager.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Class Library - DBmanager.pdb
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\BuyWindow.g.cs
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\AddWindow.g.cs
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\BuyWindow.baml
+D:\Projects\Visual studio\Projects of mine\Box Factory\Box Factory Manager\Box Factory Manager\obj\Debug\AddWindow.baml
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Box Factory Manager.exe.config
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Box Factory Manager.exe
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Box Factory Manager.pdb
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Class Library - DBmanager.dll
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Class Library Logic.dll
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Class Library UI.dll
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Class Library - DBmanager.pdb
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Class Library Logic.pdb
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Class Library UI.pdb
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.AssemblyReference.cache
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\BuyWindow.g.cs
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\AddWindow.g.cs
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\MainWindow.g.cs
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\App.g.cs
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager_MarkupCompile.cache
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager_MarkupCompile.lref
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\BuyWindow.baml
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\AddWindow.baml
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\MainWindow.baml
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager.g.resources
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box_Factory_Manager.Properties.Resources.resources
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.GenerateResource.cache
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.CoreCompileInputs.cache
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager.csproj.CopyComplete
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager.exe
+D:\Projects\Git\Box-Factory-Manager\Box Factory Manager\obj\Debug\Box Factory Manager.pdb
