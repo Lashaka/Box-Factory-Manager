@@ -13,6 +13,9 @@ namespace Class_Library_Logic
         private string _Explanation;
         private string _Time;
 
+
+  
+
         public Exceptions(string name = "", string description = "", string explanation = "")
         {
             _Name = name;

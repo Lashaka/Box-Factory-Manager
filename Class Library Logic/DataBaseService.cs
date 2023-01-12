@@ -14,6 +14,8 @@ namespace Class_Library___DBmanager
 {
     public class DataBaseService
     {
+        //String json = Newtonsoft.Json.JsonConvert.SerializeObject(list);
+
         private static string _FilePath = @"DB files\json DB.json"; //set name, starts looking here anyway
 
         private string _jsonData = System.IO.File.ReadAllText(_FilePath); //read all text
@@ -55,6 +57,8 @@ namespace Class_Library___DBmanager
 
         public static SortedDictionary<string, Box_Storage> GetData()
         {
+            //try
+            //{
                 string strConvert = File.ReadAllText(_FilePath);//change later to you't AbstractItem
                 SortedDictionary<string, Box_Storage> data = JsonConvert.DeserializeObject<SortedDictionary<string, Box_Storage>>(strConvert, new JsonSerializerSettings()
                 {
@@ -62,7 +66,11 @@ namespace Class_Library___DBmanager
                     NullValueHandling = NullValueHandling.Ignore,
                 });
                 return data;
-
+            //}
+            //catch (Exception exception)
+            //{
+            //    return null;
+            //}
         }
 
     }
