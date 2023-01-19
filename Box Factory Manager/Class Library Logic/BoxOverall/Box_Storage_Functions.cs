@@ -1,10 +1,5 @@
-﻿using Class_Library_UI;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 using Wpf_Class_Library_Logic.BoxOverall;
 
 namespace Class_Library_Logic.BoxOverall
@@ -24,7 +19,7 @@ namespace Class_Library_Logic.BoxOverall
         public static bool ProcNoBoxesOfThisKindLeft = false;
 
 
-        public static SortedDictionary<Box_Storage, Box_Storage> ExpiredFunc(SortedDictionary<Box_Storage, Box_Storage> SortedDictionary,int days,bool NonExpired) //removes all boxes that werent bought for a week+
+        public static SortedDictionary<Box_Storage, Box_Storage> ExpiredFunc(SortedDictionary<Box_Storage, Box_Storage> SortedDictionary, int days, bool NonExpired) //removes all boxes that werent bought for a week+
         {
 
             SortedDictionary<Box_Storage, Box_Storage> New_SortedDictionary = new SortedDictionary<Box_Storage, Box_Storage>(new KeyComparer());
@@ -38,7 +33,7 @@ namespace Class_Library_Logic.BoxOverall
                 Box_Storage_Set.CompareMethod = 4; //compare by date
 
                 DateTime Now = DateTime.Now;
-                TimeSpan MinusWeek = new TimeSpan(-(days*24), 0, 0);
+                TimeSpan MinusWeek = new TimeSpan(-(days * 24), 0, 0);
                 DateTime TimeAgo = Now.Add(MinusWeek);
 
                 if (NonExpired == true) //filter time bigger
@@ -62,9 +57,9 @@ namespace Class_Library_Logic.BoxOverall
 
 
 
-                }
+            }
 
-           SortedDictionary = New_SortedDictionary;
+            SortedDictionary = New_SortedDictionary;
 
             TempExtraBoxes = counter;
             Box_Storage_Set.CompareMethod = 2;
@@ -105,7 +100,7 @@ namespace Class_Library_Logic.BoxOverall
             {
                 SortedDictionary.Add(box_Storage, box_Storage); //add this new box
 
-                if(SortedDictionary.ContainsKey(box_Storage) == true)
+                if (SortedDictionary.ContainsKey(box_Storage) == true)
                 {
                     if (SortedDictionary[box_Storage].BoxAmount + box_Storage._AmountToAdd <= 100)
                     {
@@ -118,7 +113,7 @@ namespace Class_Library_Logic.BoxOverall
                         ProcExtraBoxMessage = true;
                     }
                 }
-             
+
             }
 
 
@@ -244,7 +239,7 @@ namespace Class_Library_Logic.BoxOverall
                     ProcAreYouSureNotEnoughMessage = true;
                 }
 
-                if (SortedDictionary[box_Storage].BoxAmount - box_Storage._AmountToAdd  < 10)
+                if (SortedDictionary[box_Storage].BoxAmount - box_Storage._AmountToAdd < 10)
                 {
                     ProcLessThan10BoxesLeft = true;
                 }

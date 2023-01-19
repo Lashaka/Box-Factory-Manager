@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
+﻿using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
 using System.Windows.Media;
@@ -22,9 +18,9 @@ namespace Class_Library_UI
             return TextSplitByNumber * (currentcount + 1);
         }
 
-        public async Task ScreenSay(string text, TextBlock textblock, Button[] buttons=null,bool showbuttons=false) // fills text in the window and says a specific text
+        public async Task ScreenSay(string text, TextBlock textblock, Button[] buttons = null, bool showbuttons = false) // fills text in the window and says a specific text
         {
-            if(buttons != null)
+            if (buttons != null)
             {
                 MainMenuEffect.DisableButtons(buttons, showbuttons);
 

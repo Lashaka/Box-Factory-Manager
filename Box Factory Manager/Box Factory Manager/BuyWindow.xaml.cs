@@ -1,20 +1,9 @@
-﻿using Class_Library___DBmanager;
-using Class_Library_Logic.BoxOverall;
+﻿using Class_Library_Logic.BoxOverall;
 using Class_Library_UI;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using Wpf_Class_Library_Logic.BoxOverall;
 
 namespace Box_Factory_Manager
@@ -100,7 +89,7 @@ namespace Box_Factory_Manager
 
                 Box_Storage BestBox = Box_Storage_Functions.FindMostSuitableBox(box, Box_Storage_Set.Box_Storagess_SortedDictionary); // gets best box
 
-                if(BestBox != null)
+                if (BestBox != null)
                 {
                     BestBox._AmountToAdd = box._AmountToAdd;
 
@@ -202,7 +191,7 @@ namespace Box_Factory_Manager
                     BoxesDataGrid.ItemsSource = Box_Storage_Set.Box_Storagess_SortedDictionary.Values.ToList();
                     await textWriteEffect.ScreenSay("Your purchase was accepted!", TextWriteEffect_TextBlock, ReturnsButtons(), false);
 
-            
+
 
 
 
@@ -228,7 +217,7 @@ namespace Box_Factory_Manager
 
                     Box_Storage_Functions.ProcLessThan10BoxesLeft = false;
                 }
-               
+
 
             }
             else

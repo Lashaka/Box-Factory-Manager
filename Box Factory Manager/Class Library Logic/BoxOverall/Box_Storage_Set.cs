@@ -1,10 +1,6 @@
-﻿using Class_Library___DBmanager;
-using Class_Library_Logic.BoxOverall;
+﻿using Class_Library_Logic.BoxOverall;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Wpf_Class_Library_Logic.BoxOverall
 {
@@ -88,7 +84,7 @@ namespace Wpf_Class_Library_Logic.BoxOverall
             }
             else if (Box_Storage_Set.CompareMethod == 3) //smart compare for specific search
             {
-                if (x.Width1 == y.Width1 && x.Width2 == y.Width2|| x.Width1 == y.Width2 && x.Width2 == y.Width1) //if both same, compare heights and keep smaller height first. Works
+                if (x.Width1 == y.Width1 && x.Width2 == y.Width2 || x.Width1 == y.Width2 && x.Width2 == y.Width1) //if both same, compare heights and keep smaller height first. Works
                 {
                     if (x.Height > y.Height)
                     {
@@ -103,18 +99,18 @@ namespace Wpf_Class_Library_Logic.BoxOverall
                         return 0;
                     }
                 }
-                else if (x.Width1 > y.Width1 && x.Width2 > y.Width2|| x.Width1 > y.Width2 && x.Width2 > y.Width1) // if both x's bigger => push to end Works
+                else if (x.Width1 > y.Width1 && x.Width2 > y.Width2 || x.Width1 > y.Width2 && x.Width2 > y.Width1) // if both x's bigger => push to end Works
                 {
                     return 1;
                 }
-                else if (x.Width1 < y.Width1 && x.Width2 < y.Width2|| x.Width1 < y.Width2 && x.Width2 < y.Width1) // if both x's smaller => push to start Works
+                else if (x.Width1 < y.Width1 && x.Width2 < y.Width2 || x.Width1 < y.Width2 && x.Width2 < y.Width1) // if both x's smaller => push to start Works
                 {
                     return -1;
                 }
 
                 else if (x.Width1 > y.Width1 && x.Width2 < y.Width2 || x.Width1 > y.Width2 && x.Width2 < y.Width1) //if kinda balanced
                 {
-                    if (x.Width1 - y.Width1 > y.Width2 - x.Width2|| x.Width1 - y.Width2 > y.Width2 - x.Width1) //check more specificaly
+                    if (x.Width1 - y.Width1 > y.Width2 - x.Width2 || x.Width1 - y.Width2 > y.Width2 - x.Width1) //check more specificaly
                     {
                         return 1;
                     }
@@ -125,9 +121,9 @@ namespace Wpf_Class_Library_Logic.BoxOverall
                 }
 
 
-                else if (x.Width1 < y.Width1 && x.Width2 > y.Width2|| x.Width1 < y.Width2 && x.Width2 > y.Width1) //if kinda balanced
+                else if (x.Width1 < y.Width1 && x.Width2 > y.Width2 || x.Width1 < y.Width2 && x.Width2 > y.Width1) //if kinda balanced
                 {
-                    if (y.Width1 - x.Width1 > x.Width2 - y.Width2|| y.Width1 - x.Width2 > x.Width2 - y.Width1)  //check more specificaly
+                    if (y.Width1 - x.Width1 > x.Width2 - y.Width2 || y.Width1 - x.Width2 > x.Width2 - y.Width1)  //check more specificaly
                     {
                         return -1;
                     }
@@ -140,7 +136,7 @@ namespace Wpf_Class_Library_Logic.BoxOverall
                 //|| x.Width1 > y.Width1 && x.Width2 < y.Width2
 
             }
-            else if(Box_Storage_Set.CompareMethod == 4) //method that puts earliest box buying date first
+            else if (Box_Storage_Set.CompareMethod == 4) //method that puts earliest box buying date first
             {
                 if (x._LastBoughtRealTime != null && y._LastBoughtRealTime != null)
                 {

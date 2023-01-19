@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Controls;
+﻿using System.Windows.Controls;
 
 namespace Class_Library_UI
 {
@@ -16,7 +11,7 @@ namespace Class_Library_UI
 
         public static void OpenCloseMenu(Button button1, Button button2, Button button3)
         {
-            if(MenuIsOpen==true)
+            if (MenuIsOpen == true)
             {
                 button1.IsEnabled = false;
                 button2.IsEnabled = false;
@@ -41,7 +36,7 @@ namespace Class_Library_UI
             }
         }
 
-        public static void DisableButtons(Button[] buttons,bool enable)
+        public static void DisableButtons(Button[] buttons, bool enable)
         {
             if (enable == false)
             {
@@ -63,6 +58,6 @@ namespace Class_Library_UI
             }
         }
 
-        
+
     }
 }

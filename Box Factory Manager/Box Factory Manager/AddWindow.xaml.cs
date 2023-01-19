@@ -1,20 +1,10 @@
-﻿using Class_Library___DBmanager;
-using Class_Library_Logic.BoxOverall;
+﻿using Class_Library_Logic.BoxOverall;
 using Class_Library_UI;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using Wpf_Class_Library_Logic.BoxOverall;
 
 namespace Box_Factory_Manager
@@ -42,7 +32,7 @@ namespace Box_Factory_Manager
 
         public Button[] ReturnsButtons()
         {
-            Button[] buttons = { Add_Button, Remove_Button, Remove_Button_Copy,Search_Button,Reset_Button };
+            Button[] buttons = { Add_Button, Remove_Button, Remove_Button_Copy, Search_Button, Reset_Button };
             return buttons;
 
         }
@@ -209,7 +199,7 @@ namespace Box_Factory_Manager
                 await textWriteEffect.ScreenSay("Please Enter a number.", TextWriteEffect_TextBlock, ReturnsButtons(), false);
             }
 
-           
+
 
         }
         private void Reset_Button_Click(object sender, RoutedEventArgs e) //shows expired search
@@ -249,7 +239,7 @@ namespace Box_Factory_Manager
                 await textWriteEffect.ScreenSay("Please Enter a number.", TextWriteEffect_TextBlock, ReturnsButtons(), false);
             }
 
-          
+
 
 
         }
